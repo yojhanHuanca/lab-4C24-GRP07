@@ -32,3 +32,8 @@ public class StudentController {
         students.removeIf(s -> s.getId() == id);
     }
 }
+
+// El modelo de estudianten gaaaaaa
+// Autor: Yojhan
+// Fecha: 24/03/2026
+// Descripcion: Clase para generar Modelos de estudiantes
